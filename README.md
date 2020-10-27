@@ -2,8 +2,11 @@
 
 this is an example hello world project written in typescript and compiled with deno
 
+## Prerequisite
+- Deno
+
 ## Setup
-- install deno:
+- install deno if you dont already have it
 ```
 curl -fsSL https://deno.land/x/install/install.sh | sh
 ```
