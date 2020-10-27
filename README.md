@@ -2,6 +2,9 @@
 
 this is an example hello world project written in typescript and compiled with deno
 
+## Screenshot
+<img src="./screenshots/screenshot.PNG">
+
 ## Prerequisite
 - Deno
 
